@@ -1,4 +1,4 @@
-# Tatame Digital App
+# BV Fight App
 
 Aplicativo móvel para aprendizado e gerenciamento de jiu-jitsu, desenvolvido com React Native e Expo.
 
@@ -8,7 +8,6 @@ Aplicativo móvel para aprendizado e gerenciamento de jiu-jitsu, desenvolvido co
 - **Tela Inicial**: Dashboard com acesso rápido a técnicas, treinos e progresso
 - **Técnicas**: Biblioteca de técnicas organizadas por categoria com vídeos e descrições
 - **Treinos**: Treinos estruturados com sequências de técnicas
-- **Atletas**: Perfis de atletas famosos com suas técnicas de assinatura
 - **Progresso**: Acompanhamento de evolução, metas e estatísticas
 - **Perfil**: Gerenciamento de informações pessoais e configurações
 
@@ -16,7 +15,6 @@ Aplicativo móvel para aprendizado e gerenciamento de jiu-jitsu, desenvolvido co
 - **Dashboard**: Visão geral com estatísticas e acesso rápido às funcionalidades
 - **Gerenciar Técnicas**: CRUD completo de técnicas com categorização e status
 - **Gerenciar Treinos**: Criação e edição de treinos com técnicas associadas
-- **Gerenciar Atletas**: Controle de atletas com estatísticas de performance
 - **Gerenciar Alunos**: Gestão completa de alunos com status e informações
 
 ## 🚀 Como Executar
@@ -42,9 +40,6 @@ npx expo start
 ### 🔐 Sistema de Login
 - **Tela de Login Única**: Interface unificada para alunos e administradores
 - **Seletor de Tipo de Usuário**: Escolha entre modo aluno ou administrador
-- **Credenciais de Demo**: 
-  - Aluno: `aluno@tatame.com` / `aluno123`
-  - Admin: `admin@tatame.com` / `admin123`
 
 ### 👨‍🎓 Área do Aluno
 - **Navegação Simples**: Sem tabs, navegação direta entre telas
@@ -99,19 +94,7 @@ app/
 - **Expo Router**: Sistema de navegação
 - **React Native Vector Icons**: Sistema de ícones
 
-## 📋 Próximos Passos
 
-- [ ] Implementar autenticação real
-- [ ] Adicionar banco de dados
-- [ ] Sistema de notificações push
-- [ ] Upload de vídeos
-- [ ] Sistema de avaliação
-- [ ] Relatórios avançados
-- [ ] Testes automatizados
-
-## 🤝 Contribuição
-
-Este projeto está em desenvolvimento ativo. Contribuições são bem-vindas!
 
 ## 📄 Licença
 
